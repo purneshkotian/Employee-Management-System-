@@ -1,2 +1,2 @@
 # Employee-Management-System-
-using python and SQL
+using python tkinter and SQL
